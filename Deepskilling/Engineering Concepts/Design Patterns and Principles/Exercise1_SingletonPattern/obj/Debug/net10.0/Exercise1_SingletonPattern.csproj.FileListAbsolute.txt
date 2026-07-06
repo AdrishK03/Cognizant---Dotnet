@@ -1,0 +1,15 @@
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.exe
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.deps.json
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.runtimeconfig.json
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.dll
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.pdb
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.AssemblyInfoInputs.cache
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.AssemblyInfo.cs
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.csproj.CoreCompileInputs.cache
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.sourcelink.json
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.dll
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\refint\Exercise1_SingletonPattern.dll
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.pdb
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.genruntimeconfig.cache
+F:\DOTNET_CTS\Cognizant---Dotnet\Deepskilling\Engineering Concepts\Design Patterns and Principles\Exercise1_SingletonPattern\obj\Debug\net10.0\ref\Exercise1_SingletonPattern.dll
