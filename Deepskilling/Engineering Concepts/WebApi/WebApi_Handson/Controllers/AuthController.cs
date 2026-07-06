@@ -49,3 +49,4 @@ public class AuthController : ControllerBase
             .WriteToken(token);
     }
 }
+
